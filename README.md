@@ -14,7 +14,7 @@ Thanks to them.
 
 - [ ] Make a personal theme;
 - [ ] Make a simple and stupid 404 page;
-- [ ] Add [Disqus](https://disqus.com/) for comments;
+- [x] Add [Disqus](https://disqus.com/) for comments;
 - [x] Config the page setup;
 - [x] Make it accessible through GitHub Pages;
 - [x] Make a TODO list;
