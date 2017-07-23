@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-07-23
 categories: main
+comments: true
 ---
 
 Today I learned how to set up a simple site with Jekyll on GitHub Pages.
