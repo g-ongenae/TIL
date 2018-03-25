@@ -1,5 +1,7 @@
 # TIL 👨‍🏫 : Today I Learned
 
+[![Build Status](https://travis-ci.org/g-ongenae/til.svg?branch=master)](https://travis-ci.org/g-ongenae/til)
+
 Another simple _Today I Learned_ website by a stupid and random guy on the internet.
 
 ## Use
