@@ -1,0 +1,21 @@
+---
+layout: post
+title: "awesome"
+date: 2018-03-25
+categories: main
+comments: true
+---
+
+# Awesome
+
+***List of interesting links***
+
+## Summary
+
+1. [Bash](#Bash)
+
+## Links
+
+### Bash
+
+1. [Parameters Expansion](http://wiki.bash-hackers.org/syntax/pe)
